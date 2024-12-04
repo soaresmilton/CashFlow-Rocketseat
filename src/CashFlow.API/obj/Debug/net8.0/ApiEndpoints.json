@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "CashFlow.API.Controllers.ExpensesController",
+    "Method": "Register",
+    "RelativePath": "api/expenses",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CashFlow.Communication.Requests.RequestRegisterExpenseJson",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CashFlow.Communication.Responses.ResponseRegisteredExpenseJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 201
+      }
+    ]
+  }
+]
