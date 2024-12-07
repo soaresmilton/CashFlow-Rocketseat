@@ -18,3 +18,4 @@ C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rock
 C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\004 - C# aplicado em projetos reais\CashFlow\src\CashFlow.Application\obj\Debug\net8.0\CashFlow.Application.pdb
 C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\004 - C# aplicado em projetos reais\CashFlow\src\CashFlow.Application\obj\Debug\net8.0\ref\CashFlow.Application.dll
 C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\004 - C# aplicado em projetos reais\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
+C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\004 - C# aplicado em projetos reais\CashFlow\src\CashFlow.Application\obj\Debug\net8.0\CashFlow.Application.sourcelink.json

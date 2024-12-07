@@ -22,7 +22,7 @@ public class ExceptionFilter : IExceptionFilter
     {
         if(context.Exception is ErrorOnValidationException)
         {
-            ErrorOnValidationException exception = (ErrorOnValidationException)context.Exception;
+            var exception = (ErrorOnValidationException)context.Exception;
 
             var errorResponse = new ResponseErrorJson(exception.Errors);
 
