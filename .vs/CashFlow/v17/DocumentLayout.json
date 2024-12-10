@@ -3,36 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9BF9FEE-2F1C-4D35-89A2-46E6A849DCB2}|src\\CashFlow.Communication\\CashFlow.Communication.csproj|c:\\users\\vx221vs\\onedrive - ey\\documents\\milton soares\\002 - learning\\004 - rocketseat\\001 - c sharp\\004 - c# aplicado em projetos reais\\cashflow\\src\\cashflow.communication\\responses\\responseerrorjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9BF9FEE-2F1C-4D35-89A2-46E6A849DCB2}|src\\CashFlow.Communication\\CashFlow.Communication.csproj|solutionrelative:src\\cashflow.communication\\responses\\responseerrorjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB1BFC54-5A9A-4482-B1BC-4C44B6F1C047}|src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj|c:\\users\\vx221vs\\onedrive - ey\\documents\\milton soares\\002 - learning\\004 - rocketseat\\001 - c sharp\\004 - c# aplicado em projetos reais\\cashflow\\src\\cashflow.infrastructure\\dataaccess\\repositories\\expensesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1BFC54-5A9A-4482-B1BC-4C44B6F1C047}|src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj|solutionrelative:src\\cashflow.infrastructure\\dataaccess\\repositories\\expensesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C09A0BEE-C350-4705-8AD8-273FB88A3EDF}|tests\\Validators.Tests\\Validators.Tests.csproj|c:\\users\\vx221vs\\onedrive - ey\\documents\\milton soares\\002 - learning\\004 - rocketseat\\001 - c sharp\\004 - c# aplicado em projetos reais\\cashflow\\tests\\validators.tests\\expenses\\register\\registerexpensevalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C09A0BEE-C350-4705-8AD8-273FB88A3EDF}|tests\\Validators.Tests\\Validators.Tests.csproj|solutionrelative:tests\\validators.tests\\expenses\\register\\registerexpensevalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB1BFC54-5A9A-4482-B1BC-4C44B6F1C047}|src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj|c:\\users\\vx221vs\\onedrive - ey\\documents\\milton soares\\002 - learning\\004 - rocketseat\\001 - c sharp\\004 - c# aplicado em projetos reais\\cashflow\\src\\cashflow.infrastructure\\dataaccess\\cashflowdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1BFC54-5A9A-4482-B1BC-4C44B6F1C047}|src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj|solutionrelative:src\\cashflow.infrastructure\\dataaccess\\cashflowdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B912CB7F-8437-41C8-BD76-64A24B147643}|src\\CashFlow.Application\\CashFlow.Application.csproj|c:\\users\\vx221vs\\onedrive - ey\\documents\\milton soares\\002 - learning\\004 - rocketseat\\001 - c sharp\\004 - c# aplicado em projetos reais\\cashflow\\src\\cashflow.application\\usecases\\expenses\\register\\registerexpensevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B912CB7F-8437-41C8-BD76-64A24B147643}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\expenses\\register\\registerexpensevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87AADCD5-126F-46B9-BD3B-644F372462B0}|src\\CashFlow.Domain\\CashFlow.Domain.csproj|c:\\users\\vx221vs\\onedrive - ey\\documents\\milton soares\\002 - learning\\004 - rocketseat\\001 - c sharp\\004 - c# aplicado em projetos reais\\cashflow\\src\\cashflow.domain\\repositories\\expenses\\iexpensesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AADCD5-126F-46B9-BD3B-644F372462B0}|src\\CashFlow.Domain\\CashFlow.Domain.csproj|solutionrelative:src\\cashflow.domain\\repositories\\expenses\\iexpensesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B912CB7F-8437-41C8-BD76-64A24B147643}|src\\CashFlow.Application\\CashFlow.Application.csproj|c:\\users\\vx221vs\\onedrive - ey\\documents\\milton soares\\002 - learning\\004 - rocketseat\\001 - c sharp\\004 - c# aplicado em projetos reais\\cashflow\\src\\cashflow.application\\usecases\\expenses\\register\\registerexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B912CB7F-8437-41C8-BD76-64A24B147643}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\expenses\\register\\registerexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B10BEA-6E1B-418F-B53C-946F4B64DFB3}|src\\CashFlow.API\\CashFlow.API.csproj|c:\\users\\vx221vs\\onedrive - ey\\documents\\milton soares\\002 - learning\\004 - rocketseat\\001 - c sharp\\004 - c# aplicado em projetos reais\\cashflow\\src\\cashflow.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B10BEA-6E1B-418F-B53C-946F4B64DFB3}|src\\CashFlow.API\\CashFlow.API.csproj|solutionrelative:src\\cashflow.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9E2CBBD-6A07-4F43-9C99-BB765E33B00D}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|c:\\users\\vx221vs\\onedrive - ey\\documents\\milton soares\\002 - learning\\004 - rocketseat\\001 - c sharp\\004 - c# aplicado em projetos reais\\cashflow\\src\\cashflow.exception\\exceptionsbase\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9E2CBBD-6A07-4F43-9C99-BB765E33B00D}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|solutionrelative:src\\cashflow.exception\\exceptionsbase\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9BF9FEE-2F1C-4D35-89A2-46E6A849DCB2}|src\\CashFlow.Communication\\CashFlow.Communication.csproj|c:\\users\\vx221vs\\onedrive - ey\\documents\\milton soares\\002 - learning\\004 - rocketseat\\001 - c sharp\\004 - c# aplicado em projetos reais\\cashflow\\src\\cashflow.communication\\requests\\requestregisterexpensejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9BF9FEE-2F1C-4D35-89A2-46E6A849DCB2}|src\\CashFlow.Communication\\CashFlow.Communication.csproj|solutionrelative:src\\cashflow.communication\\requests\\requestregisterexpensejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49A6AD51-FE7F-4C1E-8DEC-88164A78DBCF}|tests\\CommonTestUtilities\\CommonTestUtilities.csproj|c:\\users\\vx221vs\\onedrive - ey\\documents\\milton soares\\002 - learning\\004 - rocketseat\\001 - c sharp\\004 - c# aplicado em projetos reais\\cashflow\\tests\\commontestutilities\\requests\\requestregisterexpensejsonbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49A6AD51-FE7F-4C1E-8DEC-88164A78DBCF}|tests\\CommonTestUtilities\\CommonTestUtilities.csproj|solutionrelative:tests\\commontestutilities\\requests\\requestregisterexpensejsonbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D9E2CBBD-6A07-4F43-9C99-BB765E33B00D}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|c:\\users\\vx221vs\\onedrive - ey\\documents\\milton soares\\002 - learning\\004 - rocketseat\\001 - c sharp\\004 - c# aplicado em projetos reais\\cashflow\\src\\cashflow.exception\\exceptionsbase\\cashflowexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9E2CBBD-6A07-4F43-9C99-BB765E33B00D}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|solutionrelative:src\\cashflow.exception\\exceptionsbase\\cashflowexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B912CB7F-8437-41C8-BD76-64A24B147643}|src\\CashFlow.Application\\CashFlow.Application.csproj|c:\\users\\vx221vs\\onedrive - ey\\documents\\milton soares\\002 - learning\\004 - rocketseat\\001 - c sharp\\004 - c# aplicado em projetos reais\\cashflow\\src\\cashflow.application\\usecases\\expenses\\register\\registerexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B912CB7F-8437-41C8-BD76-64A24B147643}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\expenses\\register\\registerexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B912CB7F-8437-41C8-BD76-64A24B147643}|src\\CashFlow.Application\\CashFlow.Application.csproj|c:\\users\\vx221vs\\onedrive - ey\\documents\\milton soares\\002 - learning\\004 - rocketseat\\001 - c sharp\\004 - c# aplicado em projetos reais\\cashflow\\src\\cashflow.application\\usecases\\expenses\\register\\registerexpensevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B912CB7F-8437-41C8-BD76-64A24B147643}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\expenses\\register\\registerexpensevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B10BEA-6E1B-418F-B53C-946F4B64DFB3}|src\\CashFlow.API\\CashFlow.API.csproj|c:\\users\\vx221vs\\onedrive - ey\\documents\\milton soares\\002 - learning\\004 - rocketseat\\001 - c sharp\\004 - c# aplicado em projetos reais\\cashflow\\src\\cashflow.api\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B10BEA-6E1B-418F-B53C-946F4B64DFB3}|src\\CashFlow.API\\CashFlow.API.csproj|solutionrelative:src\\cashflow.api\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,85 +46,106 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ResponseErrorJson.cs",
-              "DocumentMoniker": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Communication\\Responses\\ResponseErrorJson.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Communication\\Responses\\ResponseErrorJson.cs",
-              "ToolTip": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Communication\\Responses\\ResponseErrorJson.cs",
-              "RelativeToolTip": "src\\CashFlow.Communication\\Responses\\ResponseErrorJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T17:15:30.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RegisterExpenseValidatorTests.cs",
-              "DocumentMoniker": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\tests\\Validators.Tests\\Expenses\\Register\\RegisterExpenseValidatorTests.cs",
-              "RelativeDocumentMoniker": "tests\\Validators.Tests\\Expenses\\Register\\RegisterExpenseValidatorTests.cs",
-              "ToolTip": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\tests\\Validators.Tests\\Expenses\\Register\\RegisterExpenseValidatorTests.cs",
-              "RelativeToolTip": "tests\\Validators.Tests\\Expenses\\Register\\RegisterExpenseValidatorTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Title": "CashFlowDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Infrastructure\\DataAccess\\CashFlowDbContext.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Infrastructure\\DataAccess\\CashFlowDbContext.cs",
+              "ToolTip": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Infrastructure\\DataAccess\\CashFlowDbContext.cs",
+              "RelativeToolTip": "src\\CashFlow.Infrastructure\\DataAccess\\CashFlowDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T21:13:52.489Z",
+              "WhenOpened": "2024-12-09T20:31:29.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RequestRegisterExpenseJsonBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\tests\\CommonTestUtilities\\Requests\\RequestRegisterExpenseJsonBuilder.cs",
-              "RelativeDocumentMoniker": "tests\\CommonTestUtilities\\Requests\\RequestRegisterExpenseJsonBuilder.cs",
-              "ToolTip": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\tests\\CommonTestUtilities\\Requests\\RequestRegisterExpenseJsonBuilder.cs",
-              "RelativeToolTip": "tests\\CommonTestUtilities\\Requests\\RequestRegisterExpenseJsonBuilder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ExpensesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Infrastructure\\DataAccess\\Repositories\\ExpensesRepository.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Infrastructure\\DataAccess\\Repositories\\ExpensesRepository.cs",
+              "ToolTip": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Infrastructure\\DataAccess\\Repositories\\ExpensesRepository.cs",
+              "RelativeToolTip": "src\\CashFlow.Infrastructure\\DataAccess\\Repositories\\ExpensesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T13:49:04.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ErrorOnValidationException.cs",
-              "DocumentMoniker": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Exception\\ExceptionsBase\\ErrorOnValidationException.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Exception\\ExceptionsBase\\ErrorOnValidationException.cs",
-              "ToolTip": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Exception\\ExceptionsBase\\ErrorOnValidationException.cs",
-              "RelativeToolTip": "src\\CashFlow.Exception\\ExceptionsBase\\ErrorOnValidationException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T13:48:35.814Z",
+              "WhenOpened": "2024-12-09T20:27:40.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "IExpensesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Domain\\Repositories\\Expenses\\IExpensesRepository.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Domain\\Repositories\\Expenses\\IExpensesRepository.cs",
+              "ToolTip": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Domain\\Repositories\\Expenses\\IExpensesRepository.cs",
+              "RelativeToolTip": "src\\CashFlow.Domain\\Repositories\\Expenses\\IExpensesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:25:08.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExpensesController.cs",
+              "DocumentMoniker": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.API\\Controllers\\ExpensesController.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.API\\Controllers\\ExpensesController.cs",
+              "ToolTip": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.API\\Controllers\\ExpensesController.cs",
+              "RelativeToolTip": "src\\CashFlow.API\\Controllers\\ExpensesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T00:17:31.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.API\\Filters\\ExceptionFilter.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.API\\Filters\\ExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.API\\Filters\\ExceptionFilter.cs",
+              "RelativeToolTip": "src\\CashFlow.API\\Filters\\ExceptionFilter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T00:17:53.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "RegisterExpenseValidator.cs",
               "DocumentMoniker": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
               "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
               "ToolTip": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
               "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T13:42:12.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T00:15:30.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RequestRegisterExpenseJson.cs",
-              "DocumentMoniker": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Communication\\Requests\\RequestRegisterExpenseJson.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Communication\\Requests\\RequestRegisterExpenseJson.cs",
-              "ToolTip": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Communication\\Requests\\RequestRegisterExpenseJson.cs",
-              "RelativeToolTip": "src\\CashFlow.Communication\\Requests\\RequestRegisterExpenseJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "RegisterExpenseUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "ToolTip": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T13:49:19.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T21:12:47.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorOnValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Exception\\ExceptionsBase\\ErrorOnValidationException.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Exception\\ExceptionsBase\\ErrorOnValidationException.cs",
+              "ToolTip": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Exception\\ExceptionsBase\\ErrorOnValidationException.cs",
+              "RelativeToolTip": "src\\CashFlow.Exception\\ExceptionsBase\\ErrorOnValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T00:19:16.153Z"
             },
             {
               "$type": "Document",
@@ -132,21 +157,7 @@
               "RelativeToolTip": "src\\CashFlow.Exception\\ExceptionsBase\\CashFlowException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T13:48:31.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RegisterExpenseUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
-              "ToolTip": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
-              "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T13:42:16.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T00:19:54.055Z"
             }
           ]
         }

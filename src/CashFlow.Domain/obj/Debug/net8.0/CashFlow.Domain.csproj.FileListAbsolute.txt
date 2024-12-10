@@ -9,3 +9,4 @@ C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rock
 C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\004 - C# aplicado em projetos reais\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\refint\CashFlow.Domain.dll
 C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\004 - C# aplicado em projetos reais\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.pdb
 C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\004 - C# aplicado em projetos reais\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\ref\CashFlow.Domain.dll
+C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\004 - C# aplicado em projetos reais\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.sourcelink.json
