@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qiL4yDFgKJk=",
+  "dgSpecHash": "OEZ4ATcWdbM=",
   "success": true,
   "projectFilePath": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\tests\\Validators.Tests\\Validators.Tests.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\VX221VS\\.nuget\\packages\\fluentassertions\\7.0.0\\fluentassertions.7.0.0.nupkg.sha512",
     "C:\\Users\\VX221VS\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
     "C:\\Users\\VX221VS\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",
+    "C:\\Users\\VX221VS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\VX221VS\\.nuget\\packages\\microsoft.net.test.sdk\\17.12.0\\microsoft.net.test.sdk.17.12.0.nupkg.sha512",
     "C:\\Users\\VX221VS\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.12.0\\microsoft.testplatform.objectmodel.17.12.0.nupkg.sha512",
     "C:\\Users\\VX221VS\\.nuget\\packages\\microsoft.testplatform.testhost\\17.12.0\\microsoft.testplatform.testhost.17.12.0.nupkg.sha512",

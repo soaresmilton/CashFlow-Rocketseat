@@ -1,5 +1,7 @@
 using CashFlow.API.Filters;
 using CashFlow.API.Middleware;
+using CashFlow.Application;
+using CashFlow.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +12,9 @@ builder.Services.AddRouting(options => options.LowercaseUrls = true);
 
 // Filtro de exeção
 builder.Services.AddMvc(options => options.Filters.Add(typeof(ExceptionFilter)));
+
+builder.Services.AddInfraesctructure(builder.Configuration);
+builder.Services.AddApplication();
 
 var app = builder.Build();
 
