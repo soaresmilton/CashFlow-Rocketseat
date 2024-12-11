@@ -1,6 +1,5 @@
 ﻿using CashFlow.Domain.Entities;
 using CashFlow.Domain.Repositories.Expenses;
-using System.Runtime.CompilerServices;
 
 namespace CashFlow.Infrastructure.DataAccess.Repositories;
 
@@ -15,6 +14,5 @@ internal class ExpensesRepository : IExpensesRepository
     public void Add(Expense expense)
     {
         _dbContext.Expenses.Add(expense);
-        _dbContext.SaveChanges();
     }
 }
