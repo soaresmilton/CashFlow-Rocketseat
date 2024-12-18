@@ -14,17 +14,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/RequestRegisterExpenseJson"
+                "$ref": "#/components/schemas/RequestExpenseJson"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/RequestRegisterExpenseJson"
+                "$ref": "#/components/schemas/RequestExpenseJson"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/RequestRegisterExpenseJson"
+                "$ref": "#/components/schemas/RequestExpenseJson"
               }
             }
           }
@@ -202,6 +202,46 @@
             }
           }
         }
+      },
+      "put": {
+        "tags": [
+          "Expenses"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int64"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RequestExpenseJson"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RequestExpenseJson"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RequestExpenseJson"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
       }
     }
   },
@@ -217,7 +257,7 @@
         "type": "integer",
         "format": "int32"
       },
-      "RequestRegisterExpenseJson": {
+      "RequestExpenseJson": {
         "type": "object",
         "properties": {
           "title": {
