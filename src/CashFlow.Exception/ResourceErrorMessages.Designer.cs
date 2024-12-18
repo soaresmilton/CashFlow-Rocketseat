@@ -95,7 +95,18 @@ namespace CashFlow.Exception {
                 return ResourceManager.GetString("TITLE_REQUIRED", resourceCulture);
             }
         }
-        
+
+        /// <summary>
+        ///   Looks up a localized string similar to The EXPENSE_NOT_FOUND is required..
+        /// </summary>
+        public static string EXPENSE_NOT_FOUND
+        {
+            get
+            {
+                return ResourceManager.GetString("EXPENSE_NOT_FOUND", resourceCulture);
+            }
+        }
+
         /// <summary>
         ///   Looks up a localized string similar to Unknow error.
         /// </summary>

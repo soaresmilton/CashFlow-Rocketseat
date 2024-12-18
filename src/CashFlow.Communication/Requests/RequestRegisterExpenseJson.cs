@@ -4,7 +4,7 @@ namespace CashFlow.Communication.Requests;
 public class RequestRegisterExpenseJson
 {
     public string Title { get; set; } = string.Empty;
-    public string Description { get; set; } = string.Empty;
+    public string? Description { get; set; }
     public DateTime CreatedDate { get; set; }
     public decimal Amount { get; set; }
     public PaymentType PaymentType { get; set; }

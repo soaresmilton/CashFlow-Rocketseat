@@ -132,4 +132,7 @@
   <data name="INVALID_PAYMENT_TYPE" xml:space="preserve">
     <value>Tipo de pagamento precisa ter um tipo válido</value>
   </data>
+  <data name="EXPENSE_NOT_FOUND" xml:space="preserve">
+    <value>Despesa não encontrada.</value>
+  </data>
 </root>
