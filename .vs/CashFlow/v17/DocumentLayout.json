@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{B912CB7F-8437-41C8-BD76-64A24B147643}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\expenses\\reports\\excel\\generateexpensereportexcelusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{87AADCD5-126F-46B9-BD3B-644F372462B0}|src\\CashFlow.Domain\\CashFlow.Domain.csproj|c:\\users\\vx221vs\\onedrive - ey\\documents\\milton soares\\002 - learning\\004 - rocketseat\\001 - c sharp\\004 - c# aplicado em projetos reais\\cashflow\\src\\cashflow.domain\\enums\\paymenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AADCD5-126F-46B9-BD3B-644F372462B0}|src\\CashFlow.Domain\\CashFlow.Domain.csproj|solutionrelative:src\\cashflow.domain\\enums\\paymenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BF9FEE-2F1C-4D35-89A2-46E6A849DCB2}|src\\CashFlow.Communication\\CashFlow.Communication.csproj|c:\\users\\vx221vs\\onedrive - ey\\documents\\milton soares\\002 - learning\\004 - rocketseat\\001 - c sharp\\004 - c# aplicado em projetos reais\\cashflow\\src\\cashflow.communication\\enums\\paymenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BF9FEE-2F1C-4D35-89A2-46E6A849DCB2}|src\\CashFlow.Communication\\CashFlow.Communication.csproj|solutionrelative:src\\cashflow.communication\\enums\\paymenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EB1BFC54-5A9A-4482-B1BC-4C44B6F1C047}|src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj|c:\\users\\vx221vs\\onedrive - ey\\documents\\milton soares\\002 - learning\\004 - rocketseat\\001 - c sharp\\004 - c# aplicado em projetos reais\\cashflow\\src\\cashflow.infrastructure\\dataaccess\\repositories\\expensesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB1BFC54-5A9A-4482-B1BC-4C44B6F1C047}|src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj|solutionrelative:src\\cashflow.infrastructure\\dataaccess\\repositories\\expensesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,11 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "PaymentType.cs",
+              "DocumentMoniker": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Communication\\Enums\\PaymentType.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Communication\\Enums\\PaymentType.cs",
+              "ToolTip": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Communication\\Enums\\PaymentType.cs",
+              "RelativeToolTip": "src\\CashFlow.Communication\\Enums\\PaymentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T18:01:50.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentType.cs",
+              "DocumentMoniker": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Domain\\Enums\\PaymentType.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Domain\\Enums\\PaymentType.cs",
+              "ToolTip": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Domain\\Enums\\PaymentType.cs",
+              "RelativeToolTip": "src\\CashFlow.Domain\\Enums\\PaymentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T18:01:45.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IExpensesReadOnlyRepository.cs",
               "DocumentMoniker": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Domain\\Repositories\\Expenses\\IExpensesReadOnlyRepository.cs",
               "RelativeDocumentMoniker": "src\\CashFlow.Domain\\Repositories\\Expenses\\IExpensesReadOnlyRepository.cs",
@@ -42,12 +76,11 @@
               "RelativeToolTip": "src\\CashFlow.Domain\\Repositories\\Expenses\\IExpensesReadOnlyRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T18:48:38.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T18:48:38.099Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ExpensesRepository.cs",
               "DocumentMoniker": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Infrastructure\\DataAccess\\Repositories\\ExpensesRepository.cs",
               "RelativeDocumentMoniker": "src\\CashFlow.Infrastructure\\DataAccess\\Repositories\\ExpensesRepository.cs",
@@ -55,8 +88,7 @@
               "RelativeToolTip": "src\\CashFlow.Infrastructure\\DataAccess\\Repositories\\ExpensesRepository.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAA5wEMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T18:48:23.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T18:48:23.055Z"
             },
             {
               "$type": "Document",
@@ -66,14 +98,14 @@
               "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Expenses\\Reports\\Excel\\GenerateExpenseReportExcelUseCase.cs",
               "ToolTip": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Reports\\Excel\\GenerateExpenseReportExcelUseCase.cs",
               "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Expenses\\Reports\\Excel\\GenerateExpenseReportExcelUseCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAawBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T17:28:16.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ReportController.cs",
               "DocumentMoniker": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.API\\Controllers\\ReportController.cs",
               "RelativeDocumentMoniker": "src\\CashFlow.API\\Controllers\\ReportController.cs",
@@ -81,12 +113,11 @@
               "RelativeToolTip": "src\\CashFlow.API\\Controllers\\ReportController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T23:39:20.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T23:39:20.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "RequestInformationReportJson.cs",
               "DocumentMoniker": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\004 - C# aplicado em projetos reais\\CashFlow\\src\\CashFlow.Communication\\Requests\\RequestInformationReportJson.cs",
               "RelativeDocumentMoniker": "src\\CashFlow.Communication\\Requests\\RequestInformationReportJson.cs",
@@ -94,8 +125,7 @@
               "RelativeToolTip": "src\\CashFlow.Communication\\Requests\\RequestInformationReportJson.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T23:54:24.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T23:54:24.528Z"
             }
           ]
         }

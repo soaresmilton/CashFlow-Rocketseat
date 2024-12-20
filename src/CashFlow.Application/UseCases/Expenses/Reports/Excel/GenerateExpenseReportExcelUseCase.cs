@@ -1,4 +1,5 @@
 ﻿
+using CashFlow.Domain.Enums;
 using CashFlow.Domain.Reports;
 using CashFlow.Domain.Repositories.Expenses;
 using ClosedXML.Excel;
@@ -6,6 +7,7 @@ using ClosedXML.Excel;
 namespace CashFlow.Application.UseCases.Expenses.Reports.Excel;
 public class GenerateExpenseReportExcelUseCase : IGenerateExpenseReportExcelUseCase
 {
+    private const string CURRENCY_SYMBOL = "R$";
     private readonly IExpensesReadOnlyRepository _repository;
     public GenerateExpenseReportExcelUseCase(IExpensesReadOnlyRepository repository)
     {
@@ -17,7 +19,7 @@ public class GenerateExpenseReportExcelUseCase : IGenerateExpenseReportExcelUseC
 
         if (expenses.Count == 0) return [];
 
-        var workbook = new XLWorkbook();
+        using var workbook = new XLWorkbook();
         workbook.Author = "Milton Soares";
         workbook.Style.Font.FontSize = 11;
 
@@ -25,13 +27,37 @@ public class GenerateExpenseReportExcelUseCase : IGenerateExpenseReportExcelUseC
 
         InsertHeader(worksheet);
 
-        var file = new MemoryStream();
+        var row = 2;
+        foreach (var expense in expenses)
+        {
+            worksheet.Cell($"A{row}").Value = expense.Title;
+            worksheet.Cell($"B{row}").Value = expense.CreatedDate;
+            worksheet.Cell($"C{row}").Value = ConvertPaymentType(expense.PaymentType);
+            worksheet.Cell($"D{row}").Value = expense.Amount;
+            worksheet.Cell($"D{row}").Style.NumberFormat.Format = $"-{CURRENCY_SYMBOL} #,##0.00";
+            worksheet.Cell($"E{row}").Value = expense.Description;
 
+            row++;
+        }
+
+        worksheet.Columns().AdjustToContents();
+
+        var file = new MemoryStream();
         workbook.SaveAs(file);
 
         return file.ToArray();
     }
-
+    private string ConvertPaymentType(PaymentType payment)
+    {
+        return payment switch
+        {
+            PaymentType.Cash => "Dinheiro",
+            PaymentType.CreditCard => "Crédito",
+            PaymentType.DebitCard => "Débito",
+            PaymentType.EletronicTransfer => "Pix",
+            _ => string.Empty
+        };
+    }
 
     private void InsertHeader(IXLWorksheet worksheet)
     {
