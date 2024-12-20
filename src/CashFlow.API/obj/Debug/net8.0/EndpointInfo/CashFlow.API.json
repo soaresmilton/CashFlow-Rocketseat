@@ -295,7 +295,7 @@
             "in": "header",
             "schema": {
               "type": "string",
-              "format": "date-time"
+              "format": "date"
             }
           }
         ],

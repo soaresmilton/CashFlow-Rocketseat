@@ -1,4 +1,5 @@
-﻿using CashFlow.Communication.Requests;
+﻿using CashFlow.Application.UseCases.Expenses.Reports.Excel;
+using CashFlow.Communication.Requests;
 using Microsoft.AspNetCore.Mvc;
 using System.Net.Mime;
 
@@ -11,15 +12,19 @@ public class ReportController : ControllerBase
     [ProducesResponseType(StatusCodes.Status200OK)]
     [ProducesResponseType(StatusCodes.Status204NoContent)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
-    public async Task<IActionResult> GetExcel([FromHeader] DateOnly month)
+    public async Task<IActionResult> GetExcel(
+        [FromHeader] DateOnly month,
+        [FromServices] IGenerateExpenseReportExcelUseCase useCase
+        )
     {
-        byte[] file = new byte[1];
+        byte[] file = await useCase.Execute(month);
 
-        var timeStamp = DateTime.Now.ToString("yyyyMMddHHmmss");
-        var fileName = $"{timeStamp} - report.xlsx";
-
-        if(file.Length > 0) 
+        if(file.Length > 0)
+        {
+            var timeStamp = DateTime.Now.ToString("yyyyMMddHHmmss");
+            var fileName = $"{timeStamp} - report.xlsx";
             return File(file, MediaTypeNames.Application.Octet, fileName);
+        }
 
         return NoContent();
     }

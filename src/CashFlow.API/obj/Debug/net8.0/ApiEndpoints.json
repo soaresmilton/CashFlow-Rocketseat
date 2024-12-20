@@ -180,7 +180,7 @@
     "Parameters": [
       {
         "Name": "month",
-        "Type": "System.DateTime",
+        "Type": "System.DateOnly",
         "IsRequired": false
       }
     ],

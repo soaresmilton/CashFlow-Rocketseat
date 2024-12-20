@@ -53,3 +53,12 @@ C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rock
 C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\004 - C# aplicado em projetos reais\CashFlow\src\CashFlow.API\bin\Debug\net8.0\MySqlConnector.dll
 C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\004 - C# aplicado em projetos reais\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\004 - C# aplicado em projetos reais\CashFlow\src\CashFlow.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\004 - C# aplicado em projetos reais\CashFlow\src\CashFlow.API\bin\Debug\net8.0\ClosedXML.dll
+C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\004 - C# aplicado em projetos reais\CashFlow\src\CashFlow.API\bin\Debug\net8.0\ClosedXML.Parser.dll
+C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\004 - C# aplicado em projetos reais\CashFlow\src\CashFlow.API\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\004 - C# aplicado em projetos reais\CashFlow\src\CashFlow.API\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\004 - C# aplicado em projetos reais\CashFlow\src\CashFlow.API\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\004 - C# aplicado em projetos reais\CashFlow\src\CashFlow.API\bin\Debug\net8.0\RBush.dll
+C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\004 - C# aplicado em projetos reais\CashFlow\src\CashFlow.API\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\004 - C# aplicado em projetos reais\CashFlow\src\CashFlow.API\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\004 - C# aplicado em projetos reais\CashFlow\src\CashFlow.API\bin\Debug\net8.0\pt-BR\CashFlow.Domain.resources.dll
